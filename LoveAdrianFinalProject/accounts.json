@@ -1,0 +1,24 @@
+{
+  "adrianlove01": {
+    "password": "Apple123",
+    "info": {
+      "Name": "Adrian Love",
+      "Age": "22",
+      "Gender": "Man",
+      "Birthday": "01/23/2001",
+      "Address": "259 S Sherman Dr",
+      "Phone Number": "463-279-7929"
+    }
+  },
+  "": {
+    "password": "",
+    "info": {
+      "Name": "",
+      "Age": "",
+      "Gender": "",
+      "Birthday": "",
+      "Address": "",
+      "Phone Number": ""
+    }
+  }
+}
