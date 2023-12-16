@@ -1,0 +1,25 @@
+{
+  "Adrian Love": {
+    "Name": "Adrian Love",
+    "Phone": "317-556-6639",
+    "Address": "3911 E Michigan St",
+    "Photo": "C:/Users/adria/PycharmProjects/PhoneBook/ContactPhotos/brub.png"
+  },
+  "Fella 1": {
+    "Name": "Fella 1",
+    "Phone": "123-456-7890",
+    "Address": "123 Booty St"
+  },
+  "Big Fella": {
+    "Name": "Big Fella",
+    "Phone": "987-654-3210",
+    "Address": "456 Dummy Dr",
+    "Photo": "C:/Users/adria/Desktop/NotRealPath.png"
+  },
+  "Lil Fella": {
+    "Name": "Lil Fella",
+    "Phone": "123-456-7890",
+    "Address": "123 Butt St",
+    "Photo": "C:/Users/adria/Desktop/RealPath.jpg"
+  }
+}
